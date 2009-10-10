@@ -279,7 +279,7 @@
 
 * [Chef Resources - basic unit of work in Chef](http://wiki.opscode.com/display/chef/Resources)
 
-* [Opscode Cookbooks](http://github.com)
+* [Opscode Cookbooks](https://github.com/opscode/cookbooks)
 
 * [Rob @ Github](http://github.com/rsanheim)
 
