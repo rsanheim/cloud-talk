@@ -1,0 +1,20 @@
+h1 {
+	margin-bottom: 0.4em;
+}
+.cite {
+	font-size: 80%;
+}
+
+li {
+  padding: 8px;
+}
+
+pre {
+	font-family: monaco, sans-serif;
+	font-size: 80%
+}
+
+pre code {
+	font-family: monaco, sans-serif;
+	font-size: 80%
+}
