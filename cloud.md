@@ -269,7 +269,7 @@
 
 !SLIDE
 
-# One more things: IMVU
+# Extreme Case Study: IMVU
 
 * deploys __50__ times a day
 * 4.4 hours of automated tests
@@ -291,7 +291,7 @@
 
 * [Rob @ Github](http://github.com/rsanheim)
 
-* [Continuous Deployment](http://timothyfitz.wordpress.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/)
+* [Continuous Deployment @ IMVU](http://timothyfitz.wordpress.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/)
 
 !SLIDE
 
