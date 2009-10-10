@@ -269,6 +269,14 @@
 
 !SLIDE
 
+# One more things: IMVU
+
+* deploys __50__ times a day
+* 4.4 hours of automated tests
+* 1 hour IE based Selenium tests
+
+!SLIDE
+
 # Resources
 
 * <a href="http://www.amazon.com/gp/product/0978739213?ie=UTF8&tag=panasonicyout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0978739213">Release It!: Design and Deploy Production-Ready Software</a><img src="http://www.assoc-amazon.com/e/ir?t=panasonicyout-20&l=as2&o=1&a=0978739213" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -282,6 +290,8 @@
 * [Opscode Cookbooks](https://github.com/opscode/cookbooks)
 
 * [Rob @ Github](http://github.com/rsanheim)
+
+* [Continuous Deployment](http://timothyfitz.wordpress.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/)
 
 !SLIDE
 
